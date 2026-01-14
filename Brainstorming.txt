@@ -1,0 +1,29 @@
+navigation
+
+Dashboard
+My schedule
+task
+announcement
+Department info
+Settings
+Logout
+
+theme color:
+White
+dark blue green
+
+
+screens
+login 
+dashboard
+settings
+campus information
+Profile
+
+
+suggestion features :
+- chatbox for communication to prof
+
+
+
+
