@@ -1,2 +1,17 @@
-# SMART-CAMPUS-COMPANION
-The Smart Campus Companion is an Android app that helps students access campus information, manage tasks, view announcements, and customize app settings in one place. It is developed step by step throughout the semester using Kotlin, MVVM architecture, and Git collaboration to simulate real-world Android app development.
+Smart Campus Companion - Phase 1
+
+App Description
+A mobile app to help university students view campus info and manage tasks.
+
+Team Roles
+- Team Leader: Jonathan
+- Git Manager: You (Your Name)
+- UI/UX Developer: ...
+- Feature Developer: ...
+- QA/Documenter: ...
+
+Git Workflow
+- main: stable code, no direct commits
+- develop: main working branch
+- feature/*: feature branches for specific tasks
+- Minimum commits per member: 5
